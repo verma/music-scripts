@@ -36,5 +36,5 @@ trap stop-tunnel SIGINT SIGTERM
 start-tunnels
 player &
 
-ncmpc
+ncmpcpp
 stop-tunnel
